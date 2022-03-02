@@ -1,0 +1,1 @@
+# spring-boot-base64-qr-code
